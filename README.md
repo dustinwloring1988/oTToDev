@@ -2,7 +2,7 @@
 
 # Bolt.new Fork by Cole Medin - oTToDev
 
-This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
+This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, Groq, GitHub Models, or GLHF Models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
 Check the [oTToDev Docs](https://coleam00.github.io/bolt.new-any-llm/) for more information.
 
@@ -36,6 +36,8 @@ https://thinktank.ottomator.ai
 - ✅ Dynamic model max token length (@hasanraiyan)
 - ✅ Prompt caching (@SujalXplores)
 - ✅ Load local projects into the app (@wonderwhy-er)
+- ✅ GitHub Models Integration (@ThePsyberSleuth)
+- ✅ GLHF Models Integration (@ThePsyberSleuth)
 - ✅ Together Integration (@mouimet-infinisoft)
 - ✅ Mobile friendly (@qwikode)
 - ✅ Better prompt enhancing (@SujalXplores)
